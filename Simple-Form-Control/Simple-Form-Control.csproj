@@ -45,10 +45,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AttributesDemoControl.cs">
+    <Compile Include="Attributes\AttributesDemoControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="FirstControl.cs">
+    <Compile Include="CustomControls\CustomControl1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CustomControls\CustomControl1.Designer.cs">
+      <DependentUpon>CustomControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomControls\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FirstExample\FirstControl.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="FlashTrackBar.cs">
@@ -64,6 +76,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CustomControls\CustomControl1.resx">
+      <DependentUpon>CustomControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomControls\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
