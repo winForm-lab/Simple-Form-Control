@@ -119,7 +119,7 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="flashTrackBar1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>36, 133</value>
+    <value>59, 135</value>
   </data>
   <data name="flashTrackBar1.Size" type="System.Drawing.Size, System.Drawing">
     <value>289, 58</value>
@@ -178,7 +178,7 @@
     <value>10, 10, 10, 10</value>
   </data>
   <data name="attributesDemoControl1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>238, 445</value>
+    <value>445, 445</value>
   </data>
   <data name="attributesDemoControl1.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
