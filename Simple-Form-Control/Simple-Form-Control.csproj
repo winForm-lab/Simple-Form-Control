@@ -45,6 +45,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AttributesDemoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="FirstControl.cs">
       <SubType>Component</SubType>
     </Compile>

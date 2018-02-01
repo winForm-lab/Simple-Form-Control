@@ -117,4 +117,103 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="flashTrackBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>36, 133</value>
+  </data>
+  <data name="flashTrackBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>289, 58</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="flashTrackBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="flashTrackBar1.Text" xml:space="preserve">
+    <value>flashTrackBar1</value>
+  </data>
+  <data name="&gt;&gt;flashTrackBar1.Name" xml:space="preserve">
+    <value>flashTrackBar1</value>
+  </data>
+  <data name="&gt;&gt;flashTrackBar1.Type" xml:space="preserve">
+    <value>Microsoft.Samples.WinForms.Cs.FlashTrackBar.FlashTrackBar, Simple-Form-Control, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;flashTrackBar1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;flashTrackBar1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="firstControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="firstControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>249, 53</value>
+  </data>
+  <data name="firstControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="firstControl1.Text" xml:space="preserve">
+    <value>sss</value>
+  </data>
+  <data name="&gt;&gt;firstControl1.Name" xml:space="preserve">
+    <value>firstControl1</value>
+  </data>
+  <data name="&gt;&gt;firstControl1.Type" xml:space="preserve">
+    <value>Simple_Form_Control.FirstControl, Simple-Form-Control, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;firstControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;firstControl1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="attributesDemoControl1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="attributesDemoControl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>430, -9</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="attributesDemoControl1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>10, 10, 10, 10</value>
+  </data>
+  <data name="attributesDemoControl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>238, 445</value>
+  </data>
+  <data name="attributesDemoControl1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="attributesDemoControl1.TitleText" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;attributesDemoControl1.Name" xml:space="preserve">
+    <value>attributesDemoControl1</value>
+  </data>
+  <data name="&gt;&gt;attributesDemoControl1.Type" xml:space="preserve">
+    <value>AttributesDemoControlLibrary.AttributesDemoControl, Simple-Form-Control, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;attributesDemoControl1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;attributesDemoControl1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>724, 438</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
